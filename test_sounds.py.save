@@ -1,0 +1,6 @@
+python3 test_sounds.py
+
+chmod +r attack_sound.mp3 lose_sound.mp3 potion_sound.mp3 victory_sound.mp3
+
+clear
+
